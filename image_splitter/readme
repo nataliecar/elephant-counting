@@ -1,0 +1,2 @@
+Use image_splitter to split images and find their translated center coordinated.
+Use any bbox algorithm such as canny_bbox to find bboxes for the new images.
