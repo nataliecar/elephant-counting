@@ -1,6 +1,6 @@
 # elephant-counting
 
-Table of Contens:
+Table of Contents:
 
 .ipynb_checkpoints: Contains the notebooks for the initial data exploration and a template for using YOLO through PyTorch (didn't end up using).
 
